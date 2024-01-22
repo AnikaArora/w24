@@ -1,9 +1,9 @@
 ---
 title: team02
 desc: "Team Project: Spring Boot Backend, part 2 (authenticated CRUD)"
-assigned: 2023-10-24 14:00
-due: 2023-10-31 11:59
-github_org: ucsb-cs156-f23
+assigned: 2024-01-30 00:00
+due: 2024-02-07 11:59
+github_org: ucsb-cs156-w24
 layout: lab
 layout: default
 parent: lab
@@ -16,7 +16,7 @@ num_database_tables_alpha: six
 num_top_level_issues: 6
 num_issues_per_table: 6
 num_issues_per_table_alpha: six
-starter: https://github.com/ucsb-cs156-f23/STARTER-team02
+starter: https://github.com/ucsb-cs156-w24/STARTER-team02
 demo_deployment: http://team02.dokku-00.cs.ucsb.edu
 canvas: https://ucsb.instructure.com/courses/17178/assignments/192316
 ---
@@ -172,7 +172,7 @@ Having said that, it is still the responsibility of the *entire team* to get all
 The time/effort you invest now in helping to build the capacity of your team will pay off later.
 
 * If other members of your team are sincerely putting in effort with an intention to work for the team, but don't have as much coding experience as you, helping those members out is both in your personal best interest, and the best interest of the team.  It is something you can talk about at job interviews; for employers, this is a highly valued trait.
-* On the other hand, if there are members of your team that are not really showing up, not following through, etc. *this is the time* to call attention to it, not in a mean or hostile way, but in a supportive, but honest way.  You are encouraged to do as much as you can with friendly but candid discussions inside your team first.  Messages on the team slack channel can be helpful here.   If that doesn't help, then call this to the attention of your team mentor (i.e. the TA/LA assigned to your team, see: <https://bit.ly/cs156-f23-teams> for a list), and or the instructor via DMs on Slack.
+* On the other hand, if there are members of your team that are not really showing up, not following through, etc. *this is the time* to call attention to it, not in a mean or hostile way, but in a supportive, but honest way.  You are encouraged to do as much as you can with friendly but candid discussions inside your team first.  Messages on the team slack channel can be helpful here.   If that doesn't help, then call this to the attention of your team mentor (i.e. the TA/LA assigned to your team, click [here](https://docs.google.com/spreadsheets/d/1FuUEiL3ZhZc-O70A0kCkykuRFE7wwyHovZHYwDctMlc/edit#gid=239376035), and or the instructor via DMs on Slack.
 * If you want to have a private 1-1 chat, that's good too, but please start with a Slack message so that we can keep track of who is telling us what; with twelve teams (and sometimes 36 or more teams over the course of an academic year) it gets difficult to remember who we talked to about what.
 
 
